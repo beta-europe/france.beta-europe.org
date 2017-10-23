@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-beta-jekyll
+minimal_mistakes_skin : "beta"
 
 # Site Settings
 locale                   : "en"
@@ -176,7 +177,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
 timezone: "Europe/Paris" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
