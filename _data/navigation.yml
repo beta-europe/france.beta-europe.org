@@ -1,14 +1,16 @@
 # main links
 main:
-  - title: "About"
+  - title: About
     url: /about/
-  - title: "News"
+
+  - title: Contact
+    url: /contact/
+    
+  - title: News
     url: /news/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  - title: Forum
+    url: https://forum.beta-europe.org
+  
+  - title: Partners
+    url: /partner/

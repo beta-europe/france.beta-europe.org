@@ -67,3 +67,12 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+
+<div class="layout--splash__recent--posts">
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
+</div>

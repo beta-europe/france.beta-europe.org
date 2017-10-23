@@ -12,8 +12,8 @@ minimal_mistakes_skin : "beta"
 locale                   : "en"
 title                    : "BETA France"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Bringing Europeans Together Association France"
+description              : "EU Politics Simulations in France"
 url                      : "https://france.beta-europe.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "beta-europe/france.beta-europe.org" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "BETA France"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing association."
-  location         :
+  bio              : "Bringing Europeans Together Association France"
+  location         : "France"
   email            : france@beta-europe.org
   uri              :
   bitbucket        :
@@ -236,6 +236,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+# Collections
+collections:
+  conferences:
+    title: Conferences
+    output: false
+    permalink: "/conference/:path/"
+  partners:
+    title: Partners
+    output: true
+    permalink: "/partner/:path/"
+  teams:
+    title: Teams
+    output: true
+    permalink: "/team/:path/"
 
 
 # Defaults
@@ -248,7 +263,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      share: true
+      related: true
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
       share: true
       related: true
   # _pages
@@ -258,3 +278,35 @@ defaults:
     values:
       layout: single
       author_profile: true
+      #sidebar:
+        #- title: BETA Europe
+          #image: "/assets/images/beta-logo-180-transparent.png"
+          #image_alt: Logo of BETA Europe
+          #text: Bringing Europeans Together Association
+      share: true
+      edit: true
+      comments: false
+  # _partners
+  - scope:
+      path: ''
+      type: partners
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _teams
+  - scope:
+      path: ''
+      type: teams
+    values:
+      layout: team_page
+      author_profile: false
+      comments: false
+      share: true
+      edit: false
+      related: false
+      sidebar:
+        nav: teams
