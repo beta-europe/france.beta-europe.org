@@ -251,7 +251,10 @@ collections:
     title: Teams
     output: true
     permalink: "/team/:path/"
-
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:slug/"
 
 # Defaults
 defaults:
