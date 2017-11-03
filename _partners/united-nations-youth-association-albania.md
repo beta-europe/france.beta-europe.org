@@ -4,7 +4,7 @@ title: United Nations Youth Association Albania
 website: 'http://www.unyaa.al/'
 mail: kristicina@unyaa.al
 header:
-  teaser: /assets/images/Albania_UN_Youth.jpg
+  teaser: /assets/images/ALBANIA (United Nations Youth Association Albania).jpg
 ---
 The United Nations Youth Association of Albania (UN Youth Albania) is a youth-led NGO dedicated to inform, inspire and mobilize Albanian youth and Albanian citizens, in general, to support and promote the values and activities of the United Nations.  It started as a project in October 2016, when a diverse group of young Albanians passionate about youth engagement and the works of the United Nations, decided to join their experiences and efforts to create and foster a UN youth community in their country. 
 
