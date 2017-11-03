@@ -1,6 +1,6 @@
 ---
-slug: Leadership Development Association Albania
-title: Leadership Development Association Albania
+slug: LDA-Albania-Kosovo
+title: Leadership Development Association Albania & Kosovo
 website: 'http://www.ldaalbania.blog'
 mail: president.albania@lda.ngo
 country: Albania
