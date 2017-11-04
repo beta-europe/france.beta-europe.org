@@ -2,7 +2,7 @@
 slug: LDA-Albania-Kosovo
 title: Leadership Development Association Albania & Kosovo
 website: 'http://www.ldaalbania.blog'
-mail: president.albania@lda.ngo
+mail: president.albania@lda.ngo; ldaferizaj05@gmail.com
 country: Albania
 header:
   teaser: /assets/images/ALBANIA (Leadership Development Albania & Kosovo).jpg
