@@ -21,6 +21,9 @@ feature_columns:
     alt: "placeholder image 1"
     title: "The Board"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://france.beta-europe.org/about/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/slide-3.jpg
     alt: "placeholder image 2"
     title: "BETA France"
