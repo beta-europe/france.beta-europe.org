@@ -21,14 +21,16 @@ Just like MEU Strasbourg created an ad-hoc association to sustain the project (B
 
 
 
-## Notable Features
+## The Board 
 
-* Compatible with Jekyll 3.x and GitHub Pages
-* Several layout options (single, archive, splash pages)
-* SEO optimized with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-* Optional header images, sidebars, table of contents, galleries, related posts, breadcrumb links, and more.
-* Optional comments ([Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, and custom)
-* Optional analytics ([Google Analytics](https://www.google.com/analytics/) and custom)
+BETA France is delighted to present you its current Board for 2017/2018: 
+
+President: Morten Munch Jespersen
+Vice-president: Maria Glimos
+Treasurer: Marie Colombani
+Secretary: Aurélien  Pommier
+
+Auditors: Nick Madzarov, Georg Karl
 
 ## Demo Pages
 
