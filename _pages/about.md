@@ -26,8 +26,11 @@ Just like MEU Strasbourg created an ad-hoc association to sustain the project (B
 BETA France is delighted to present you its current Board for 2017/2018: 
 
 President: Morten Munch Jespersen
+
 Vice-president: Maria Glimos
+
 Treasurer: Marie Colombani
+
 Secretary: Aurélien  Pommier
 
 Auditors: Nick Madzarov, Georg Karl
