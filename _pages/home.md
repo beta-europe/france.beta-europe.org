@@ -32,7 +32,7 @@ feature_columns:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/slide-1.jpg
-    title: "Model European Union Strasbourg"
+    title: "MEU Strasbourg"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "http://www.meu-strasbourg.org"
     btn_label: "Read More"
