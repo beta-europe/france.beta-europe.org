@@ -17,21 +17,21 @@ intro:
       To foster a European identity and consciousness based on plurality, tolerance and cooperation between individuals, as well as strengthening the European civil society by further developing democratic processes on the national and international levels. To establish sustainable administrative structures that ensure the success of the [Model European Union (MEU) event in Strasbourg](http://www.meu-strasbourg.org) and other similar events.
 
 feature_columns:
-  - image_path: assets/images/slide-2.jpg
+  - image_path: assets/images/BETA FR BOARD.jpg
     alt: "placeholder image 1"
     title: "The Board"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://france.beta-europe.org/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/BETA FR BOARD.jpg
+  - image_path: /assets/images/BETA France logo.png
     alt: "placeholder image 2"
     title: "BETA France"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://france.beta-europe.org/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/BETA France logo.png
+  - image_path: /assets/images/MEUS17.jpg
     title: "MEU Strasbourg"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "http://www.meu-strasbourg.org"
