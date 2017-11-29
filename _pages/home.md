@@ -19,17 +19,17 @@ intro:
 feature_columns:
   - image_path: assets/images/slide-2.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "The Board"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/slide-3.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "BETA France"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/slide-1.jpg
-    title: "Placeholder 3"
+    title: "Model European Union Strasbourg"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
