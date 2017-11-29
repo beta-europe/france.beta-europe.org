@@ -5,13 +5,21 @@ excerpt: Minimal Mistakes is a flexible two-column Jekyll theme.
 ---
 {% include base_path %}
 
-BETA France is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+The association BETA France aims at bringing Europeans together, as its acronym stands for. This goal is reached through the implementation of Model European Union Strasbourg (MEU Strasbourg),a project which our association has been partnering with since the year 2015, and now organising.
 
-The theme includes responsive layouts (`single`, `archive`, and `splash` pages) that look great on mobile and desktop browsers.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-\[Install the Theme]({{ base_path }}/docs/quick-start-guide/){: .btn .btn--success .btn--large}
+Model European Union Strasbourg was created by a group of students of AEGEE Mainz-Wiesbaden in the Spring 2007. After years of commitment, the project celebrated its 12th edition in 20178 Year after year, young Europeans from all across our continent believed in this project. Today, the dream of the few has bloomed into the achievement of the many.
+
+​Participants and organizers, partners and sponsors,hundreds of Europeans have been involved in the first-ever simulation of European politics.
+
+
+
+This success-story inspired students to create similar simulations in their countries. The MEU network counts as of today more than 15 EU simulations.
+
+Just like MEU Strasbourg created an ad-hoc association to sustain the project (BETA e.V.), other MEU projects started to develop NGOs under the "BETA" label to back-up their organizations.
+
+
 
 ## Notable Features
 
