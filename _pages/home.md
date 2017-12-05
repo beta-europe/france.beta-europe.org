@@ -20,20 +20,20 @@ feature_columns:
   - image_path: assets/images/BETA FR BOARD.jpg
     alt: "placeholder image 1"
     title: "The Board"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Find more about our current Board for the executive year 2017/2017"
     url: "https://france.beta-europe.org/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/BETA France logo.png
     alt: "placeholder image 2"
     title: "BETA France"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "BETA France is a French association which organise Model European Union Strasbourg"
     url: "https://france.beta-europe.org/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/MEUS17.jpg
     title: "MEU Strasbourg"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Model European Union Strasbourg is the authoritative simulation of EU politics, taking place every spring in Strasbourg ."
     url: "http://www.meu-strasbourg.org"
     btn_label: "Read More"
     btn_class: "btn--inverse"
