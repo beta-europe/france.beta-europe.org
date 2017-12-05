@@ -20,29 +20,29 @@ feature_columns:
   - image_path: assets/images/BETA FR BOARD.jpg
     alt: "placeholder image 1"
     title: "The Board"
-    excerpt: "Find more about our current Board for the executive year 2017/2017"
+    excerpt: "Find more about our current Board for the executive year 2017/2017."
     url: "https://france.beta-europe.org/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/BETA France logo.png
     alt: "placeholder image 2"
     title: "BETA France"
-    excerpt: "BETA France is a French association which organise Model European Union Strasbourg"
+    excerpt: "BETA France is a French association which organise Model European Union Strasbourg."
     url: "https://france.beta-europe.org/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/MEUS17.jpg
     title: "MEU Strasbourg"
-    excerpt: "Model European Union Strasbourg is the authoritative simulation of EU politics, taking place every spring in Strasbourg ."
+    excerpt: "Model European Union Strasbourg is the authoritative simulation of EU politics, taking place every spring in Strasbourg."
     url: "http://www.meu-strasbourg.org"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "Join our organisation"
+    excerpt: 'BETA France is looking for young people to join our European projects.'
+    url: "https://france.beta-europe.org/contact/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
