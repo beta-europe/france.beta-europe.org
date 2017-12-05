@@ -16,7 +16,7 @@ General inquiries should be directed to the BETA France Board: <contact@france.b
 
 ## Become a Member
 
-To join us, just send an email to our Secreaty, Aurélien Pommier, at <a.pommier@france.beta-europe.org> stating your interest in becoming a BETA France member. 
+To join us, just send an email to our Secretary, Aurélien Pommier, at <a.pommier@france.beta-europe.org> stating your interest in becoming a BETA France member. 
 Then, all you have to do is filling out the application form we will send you. 
 
 
