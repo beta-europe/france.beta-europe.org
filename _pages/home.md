@@ -44,7 +44,7 @@ feature_row2:
     excerpt: 'BETA France is looking for young people to join our European projects.'
     url: "https://france.beta-europe.org/contact/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
