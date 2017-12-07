@@ -3,7 +3,7 @@ slug: BiH-Snaga-Mladih
 title: Snaga Mladih
 website: www.youth-power.org
 mail: ''
-country: Bosna and Herzegovina
+country: Bosnia and Herzegovina
 header:
   teaser: /assets/images/BiH_YP.jpg
 ---
