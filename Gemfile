@@ -9,9 +9,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.5.2"
+gem "jekyll", "3.6.2"
 
-gem "minimal-mistakes-beta-jekyll", :git => "https://github.com/beta-europe/minimal-mistakes-beta.git"
+gem "minimal-mistakes-beta-jekyll", "4.8.0.4", :git => "https://github.com/beta-europe/minimal-mistakes-beta.git"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
