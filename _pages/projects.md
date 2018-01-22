@@ -18,13 +18,9 @@ Please find more information about the projects of BETA France.
 Here, find more information: 
 
  url: "https://www.facebook.com/meustrasbourg/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 
 ## Model European Union Paris 
 
 Here, find more information: 
 
  url: "https://www.facebook.com/ModelEUParis/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
