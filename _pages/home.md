@@ -38,7 +38,7 @@ feature_columns:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row4:
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/26991590_382993795475551_3357006096555076980_n.jpg
     alt: "placeholder image 2"
     title: "Please welcome MEU PARIS!"
     excerpt: 'BETA France is proud to announce its brand new project: Model European Union Paris. The first MEU conference in the French Capital.'
