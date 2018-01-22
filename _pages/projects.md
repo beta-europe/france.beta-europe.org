@@ -1,8 +1,8 @@
 ---
-title: Contact
-tags: [contact, BETA, partners]
+title: Projects
+tags: [projects, BETA, MEU]
 date: 2016-01-16
-permalink: /contact/
+permalink: /projects/
 comments: false
 author_profile: false
 sidebar:
