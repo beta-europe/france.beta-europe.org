@@ -17,10 +17,10 @@ Please find more information about the projects of BETA France.
 
 Here, find more information: 
 
- url: "https://www.facebook.com/meustrasbourg/"
+<https://www.facebook.com/meustrasbourg/>
 
 ## Model European Union Paris 
 
 Here, find more information: 
 
- url: "https://www.facebook.com/ModelEUParis/"
+<https://www.facebook.com/ModelEUParis/>
