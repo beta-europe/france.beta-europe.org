@@ -37,22 +37,6 @@ feature_columns:
     url: "http://www.meu-strasbourg.org"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-feature_row2:
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Join our organisation"
-    excerpt: 'BETA France is looking for young people to join our European projects.'
-    url: "https://france.beta-europe.org/contact/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 feature_row4:
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
