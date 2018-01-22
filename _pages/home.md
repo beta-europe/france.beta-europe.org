@@ -40,10 +40,10 @@ feature_columns:
 feature_row4:
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Please welcome MEU PARIS!"
+    excerpt: 'BETA France is proud to announce its brand new project: Model European Union Paris. The first MEU conference in the French Capital.'
+    url: "https://www.facebook.com/ModelEUParis/"
+    btn_label: "Learn More"
     btn_class: "btn--inverse"
 ---
 
