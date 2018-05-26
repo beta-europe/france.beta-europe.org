@@ -5,7 +5,7 @@ excerpt: Model European Union
 ---
 ## MODEL EUROPEAN UNION PARIS
 
-Model European Union Paris is a high-quality **simulation of European politics **organised in Paris by BETA France. It aims at simulating the European decision-making process by modelling the Union’s two co-legislators, **the European Parliament and the Council of the European Union**, also featuring a **journalist team and lobbyists** from various horizons.
+Model European Union Paris is a high-quality simulation of European politics organised in Paris by BETA France. It aims at simulating the European decision-making process by modelling the Union’s two co-legislators, the European Parliament and the Council of the European Union, also featuring a journalist team and lobbyists from various horizons.
 
 The inaugural edition of the simulation will be held in Paris **from the 3rd to the 8th of September.**
 
@@ -14,13 +14,14 @@ On this page you’ll find all the essential information for applying at MEU Par
 For additional information, don’t hesitate to contact us at participants.model.eu.paris@gmail.com and to follow us on our social networks.
 FB: <https://www.facebook.com/ModelEUParis/>
 Instagram: <https://www.instagram.com/modeleuparis/>\
+\
 Twitter: <https://twitter.com/ModeleuP>
 
 # Application guide
 
 APLLICATIONS HERE: <https://form.jotformeu.com/BETAFRANCE/MEUP>
 
-MEU Paris applications are open from Sunday 27th to the 17th of June.
+MEU Paris applications are open from Sunday 27th May to the 17th of June.
 
 In order to complete your application you must fill out the application form, which include:
 
@@ -79,8 +80,7 @@ You can send it at participants.model.eu.paris@gmail.com, we will add it to your
 
 **I want to go to MEU Paris, but I also love the idea of going to MEU Lisbon. What should I do?**
 
-
-Don’t you worry! I you feel like it and want to try not one but two weeks in the MEU world, nothing prevents you from taking part in both! MEU Paris ends the day MEU Lisbon participants are supposed to arrive, so you can use the 8th to make the trip.
+Don’t you worry! If you feel like it and want to try not one but two weeks in the MEU world, nothing prevents you from taking part in both! MEU Paris ends the day MEU Lisbon participants are supposed to arrive, so you can use the 8th to make the trip.
 
 # Roles presentation
 
