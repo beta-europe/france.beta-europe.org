@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: MEUP
 tags: [projects, BETA, MEU]
-date: 2016-01-16
-permalink: /projects/
+date: 2018-05-26
+permalink: /MEUP/
 comments: false
 author_profile: false
 sidebar:
