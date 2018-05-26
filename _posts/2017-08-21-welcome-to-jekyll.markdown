@@ -6,9 +6,19 @@ categories: jekyll update
 ---
  DG: Francesca Maria 
  
+   - image_path: assets/images/Francesca.jpg
+    alt: "placeholder image 1"
+    title: "Francesca"
+    excerpt: "DG"
+ 
  I have been involved in Model European Union Strasbourg since 2015 and it is a great honour and pleasure to serve as its Director General. I'm a Law graduate, currently finishing my postgraduate degree in European Political and Governance Studies at the College of Europe. Having participated, organised and chaired MEUs all over Europe and beyond, I'm a strong believer in their educational and inspirational value. I'm very happy to take the steers of an amazing project that is Model European Union Strasbourg and do my best to make the 2019 edition the best one yet!
  
  DDG: Marie Colombani 
+ 
+   - image_path: assets/images/Marie.jpg
+    alt: "placeholder image 1"
+    title: "Marie"
+    excerpt: "DDG"
  
  I am a Sciences Po Strasbourg graduate, with a degree in European studies and public affairs. I became an MEU-believer around the same time as Francesca, when we both took part in MEUS 2015 as Members of the European Parliament for the EPP political group. 
 Over the years since 2016, the organisation of MEU Strasbourg has played a major role in my personal development and convinced me to pursue a career in project management at EU level.
