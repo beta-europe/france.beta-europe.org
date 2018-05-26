@@ -1,25 +1,16 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
-date:   2017-08-21 12:23:08 +0200
+title:  "MEUS2019 Directorate"
+date:   2018-05-25 12:23:08 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+ DG: Francesca Maria 
+ 
+ I have been involved in Model European Union Strasbourg since 2015 and it is a great honour and pleasure to serve as its Director General. I'm a Law graduate, currently finishing my postgraduate degree in European Political and Governance Studies at the College of Europe. Having participated, organised and chaired MEUs all over Europe and beyond, I'm a strong believer in their educational and inspirational value. I'm very happy to take the steers of an amazing project that is Model European Union Strasbourg and do my best to make the 2019 edition the best one yet!
+ 
+ DDG: Marie Colombani 
+ 
+ I am a Sciences Po Strasbourg graduate, with a degree in European studies and public affairs. I became an MEU-believer around the same time as Francesca, when we both took part in MEUS 2015 as Members of the European Parliament for the EPP political group. 
+Over the years since 2016, the organisation of MEU Strasbourg has played a major role in my personal development and convinced me to pursue a career in project management at EU level.
+For the year 2019, I will be given the chance to give back a little bit of what I’ve received from MEUS and BETA.
+Leading the next edition of the event is a great honour but will also be a serious challenge. We wish to take it up with a renewed and united team of hard-working volunteers. Stay tuned for the opening of organisers’ applications! 
