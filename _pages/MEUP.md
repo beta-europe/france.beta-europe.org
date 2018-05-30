@@ -21,7 +21,7 @@ Twitter: <https://twitter.com/ModeleuP>
 
 APLLICATIONS HERE: <https://form.jotformeu.com/BETAFRANCE/MEUP>
 
-MEU Paris applications are open from Sunday 27th May to the 17th of June.
+MEU Paris applications are open from Sunday 30th May to the 17th of June.
 
 In order to complete your application you must fill out the application form, which include:
 
