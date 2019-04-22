@@ -5,9 +5,9 @@ excerpt: Model European Union
 ---
 ## MODEL EUROPEAN UNION PARIS
 
-Model European Union Paris is a high-quality simulation of European politics organised in Paris by BETA France. It aims at simulating the European decision-making process by modelling the Union’s two co-legislators, the European Parliament and the Council of the European Union, also featuring a journalist team and lobbyists from various horizons.
+Model European Union Paris is a high-quality simulation of European politics organised in Paris by BETA France. It aims at simulating the European decision-making process by modelling the Union’s two co-legislators, the European Parliament and the Council of the European Union, also featuring a journalist team and lobbyists from various horizons. This event will involve for the first time representative of citizens. 
 
-The inaugural edition of the simulation will be held in Paris **from the 3rd to the 8th of September.**
+After a first successful inaugural edition of the simulation, the second edition will be held in Paris **from the 2nd to the 7th of September 2019**. At the National Assembly, **from the 3th to the 6th of September 2019**.
 
 On this page you’ll find all the essential information for applying at MEU Paris, along with some Frequently Asked Questions and a presentation of all the roles that will be available in MEU Paris.
 
@@ -19,9 +19,9 @@ Twitter: <https://twitter.com/ModeleuP>
 
 # Application guide
 
-APLLICATIONS HERE: <https://form.jotformeu.com/BETAFRANCE/MEUP>
+APPLICATIONS HERE:
 
-MEU Paris applications are open from Sunday 30th May to the 17th of June.
+MEU Paris applications are open from XXXX.
 
 In order to complete your application you must fill out the application form, which include:
 
@@ -116,4 +116,4 @@ As a Lobbyist, your role would be to defend the interest of the organisation you
 
 Without Lobbyists, European politics are just a game of negotiation and compromise making. With lobbyist, a different way of taking into account the citizens’ opinion comes into the equation.
 
-# Have you found your dream EU job? Apply now and join us in Paris for MEU Paris 2018!
+# Have you found your dream EU job? Apply now and join us in Paris for MEU Paris 2019!
