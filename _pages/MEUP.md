@@ -20,9 +20,11 @@ Twitter: <https://twitter.com/ModeleuP>
 
 # Application guide
 
-APPLICATIONS: HERE SOON
+APPLICATIONS: <https://bit.ly/2IP5Kuu>
 
-APPLICATION FOR INTERPRETERS: HERE SOON
+APPLICATION FOR INTERPRETERS: <https://bit.ly/2KSQpf3 >
+
+MEU Paris applications are open **until the 24th of May**.
 
 
 In order to complete your application you must fill out the application form, which includes:
@@ -75,7 +77,7 @@ You can send it to participants.model.eu.paris@gmail.com, we will add it to your
 
 **I want to go to MEU Paris, but I also love the idea of going to MEU Lisbon. What should I do?**
 
-Don’t you worry! If you feel like it and want to try not one but two weeks in the MEU world, nothing prevents you from taking part in both! MEU Paris ends the day MEU Lisbon participants are supposed to arrive, so you can use the 8th to make travel arrangements.
+
 
  
 
