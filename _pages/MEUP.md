@@ -75,7 +75,6 @@ There is a dedicated question in the application form. If you need a visa, we wi
 
 You can send it to participants.model.eu.paris@gmail.com, we will add it to your application.
 
-**I want to go to MEU Paris, but I also love the idea of going to MEU Lisbon. What should I do?**
 
 
 
