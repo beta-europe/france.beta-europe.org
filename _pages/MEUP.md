@@ -59,6 +59,13 @@ None! All of them! Any of them! The European Union is about diversity (after all
 
 Participants in MEU Paris will discuss two topics : renewable energies and cybersecurity. 
 
+**Which interpreting booths will be available? Which A-languages do you accept?**
+
+To be completely honest with you, we don’t know as of yet. There will be an EN/FR booth, but the remaining booths will be chosen based on the nationalities of most of our MEPs as well as the number of applications received per A-language. To give you an idea, last year French, English, German, Italian, Spanish and Russian were some of the most prominent languages. 
+But we don’t want to discriminate against less widely spoken languages, and if we receive enough interesting profiles in any given language to form a team, that’s exactly what we’ll do. So don’t worry about your A-language being too rare, just apply and we’ll see what we can do!
+
+
+
 **What are the participation fees for MEU Paris?**
 
 We want MEU Paris to be accessible to as many people as possible, and as a stay in Paris is expensive on its own, we have decided on a total fee of only 40€! We will provide lunch and coffee during the simulation. 
@@ -118,12 +125,11 @@ Without Lobbyists, European politics are just a game of negotiations and comprom
 
 Conference interpreters at EU institutions ensure that the discussions held at meetings are correctly interpreted into an official language of the EU, using either simultaneous or consecutive interpreting. EU interpreters work in a stimulating, multi-cultural environment, and must be able to communicate effectively, grasp varied and often complex issues, react and adapt swiftly to changing circumstances, work under pressure, independently and as part of a team.
 
-The same ist true for interpreters at MEU Paris: smooth communication will be your responsibility. You will interpret speeches and debates, both from English and French into your mother tongue. 
-
-While MEPs will communicate in English, your work will be vital for the understanding of French guest speakers and also make the simulation more realistic. 
+The same ist true for interpreters at MEU Paris: smooth communication will be your responsibility. You will interpret speeches and debates, both from English and French into your mother tongue. While MEPs will communicate in English, your work will be vital for the understanding of French guest speakers and also make the simulation more realistic. **We are looking for a variety of different A-languages for our 2019 edition. There will probably be a EN/FR, DE, ES, IT or RU booth, but the final decision will depend on the nationalities of our participants as well as number of applications received per A-language. **
 
 At MEU Paris, you will work mainly in a simultaneous mode, but you may also get the opportunity to practice consecutive interpreting in a real-life situation as part of meetings with our French guest speakers. You will get the chance to put a variety of theoretical interpreting skills to the practical test in a realistic working environment with fascinating topics and motivated speakers - the best conditions imaginable for an excellent interpreting practice.
 
-If you are a student or recent graduate in Conference Interpreting interested in gaining first-hand interpreting experience and meeting other interpreters and young people from all over Europe, do not hesitate to apply!
+If you are a student or recent graduate in Conference Interpreting interested in gaining first-hand interpreting experience and meeting other interpreters and young people from all over Europe, do not hesitate to apply, **no matter your A-language!**
+
 
 # Have you found your dream EU job? Apply now and join us in Paris for MEU Paris 2019!
