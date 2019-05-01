@@ -7,7 +7,7 @@ excerpt: Model European Union
 
 Model European Union Paris is a high-quality simulation of European politics organised in Paris by BETA France. It aims at simulating the European decision-making process by mirroring the Union’s two co-legislators, the European Parliament and the Council of the European Union and is also featuring a journalist team and lobbyists from various fields. Moreover, interpreters will add a multilingual dimension. This event will involve for the first time a representative of citizens. 
 
-After a first successful inaugural edition of the simulation, the second edition will be held in Paris, at the National Assembly, **from the 2nd to the 6th of September 2019**. 
+After a first successful inaugural edition of the simulation, the second edition will be held in Paris, at the National Assembly, **from the 3nd to the 6th of September 2019**. 
 
 On this page you’ll find all the essential information for applying to MEU Paris, along with some Frequently Asked Questions and a presentation of all the roles that will be available at MEU Paris.
 
