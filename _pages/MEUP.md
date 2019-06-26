@@ -24,7 +24,7 @@ APPLICATIONS: <https://bit.ly/2IP5Kuu>
 
 APPLICATION FOR INTERPRETERS: <https://bit.ly/2KSQpf3 >
 
-MEU Paris applications are open **until the 24th of May**.
+MEU Paris applications are open **until the 30th of June**.
 
 
 In order to complete your application you must fill out the application form, which includes:
